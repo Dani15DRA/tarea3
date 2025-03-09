@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tarea 3</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword">Olvidaste tu contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="resetPassword">Enviar contraseña</string>
+    <string name="invitation">¿Hasta que nivel eres capaz de llegar?</string>
+    <string name="acept">He leido y acepto los </string>
+    <string name="term">Términos y condiciones de uso.</string>
+    <string name="empty_email">Introduzca un email!</string>
+    <string name="invalid_email">Email incorrecto!</string>
+    <string name="bar_title_terms">Términos y condiciones de uso</string>
+    <string name="terms1">
+    Al utilizar esta aplicación, usted acepta cumplir con los términos y condiciones establecidos. Nos reservamos el derecho de modificar o actualizar estos términos en cualquier momento sin previo aviso. Es su responsabilidad revisar periódicamente estos términos para mantenerse informado de cualquier cambio.
+</string>
+
+    <string name="terms2">
+    La aplicación está destinada para uso exclusivo en la gestión de órdenes de compra dentro del área de Suministros Generales. El acceso a ciertas funciones está restringido a usuarios autenticados. Nos comprometemos a proteger la confidencialidad de los datos de los usuarios y garantizar un uso seguro de la información.
+</string>
+    <string name="terms3">
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+        Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+        Aenean nec lorem.     </string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="back">Back</string>
+</resources>
